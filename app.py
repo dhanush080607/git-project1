@@ -1,1 +1,1 @@
-echo "hame"
+echo "HEllo"
